@@ -1,8 +1,0 @@
-{
-  "routes": [
-    "/login",
-    "/main-nav",
-    "/main-nav/pokemon",
-    "/main-nav/users"
-  ]
-}
